@@ -2,21 +2,19 @@
 ```
 run shopping site on esp32/esp8266 run any site on your esp
 ```
-📝 ESP32 Wi-Fi Billboard / Captive Portal Project — Krishna upx61
 
 ### Project Title:
 
-ESP32 Wi-Fi Billboard / Captive Portal with Image Slider
+📝ESP32 Wi-Fi Billboard / Captive Portal with Image Slider
 
 Original Creator / Credit:
 
+```
 Krishna upx61
-
+```
 ESP32 Wi‑Fi Billboard / Captive Portal Broadcast Platform
 Original Creator: Krishna_upx61
 
-
----
 
 # 🔥 All Use-Cases Covered (My side se bhi add kar diye)
 
