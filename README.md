@@ -3,9 +3,9 @@
 run shopping site on esp32/esp8266 run any site on your esp
 ```
 
-### Project Title:
+### Project Title: Captive Portal Ads
 
-📝ESP32 Wi-Fi Billboard / Captive Portal with Image Slider
+📝ESP32 Wi-Fi Billboard / WiFi Advertisement (Best For Advertisment)
 
 Original Creator / Credit:
 
