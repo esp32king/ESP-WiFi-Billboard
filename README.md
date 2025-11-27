@@ -12,9 +12,6 @@ Original Creator / Credit:
 ```
 Krishna upx61
 ```
-ESP32 Wi‑Fi Billboard / Captive Portal Broadcast Platform
-Original Creator: Krishna_upx61
-
 
 # 🔥 All Use-Cases Covered (My side se bhi add kar diye)
 
