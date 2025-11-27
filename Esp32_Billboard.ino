@@ -15,7 +15,7 @@
 #define SD_CS 5
 
 const byte DNS_PORT = 53;
-const char* ssid = "WiFi Storage";
+const char* ssid = "The Shopping Spot";
 const char* password = "";
 
 DNSServer dnsServer;
